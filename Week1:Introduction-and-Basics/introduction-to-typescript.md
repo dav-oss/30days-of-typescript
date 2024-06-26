@@ -18,3 +18,6 @@ npm yarn pnpm
 ### Basic Types 
 
 Boolean, Number, String, Array, Tuple, Enum, Unknow, Any, Null and Undefined, Never, Object, Type assertions
+
+## Functions
+TypeScript functions can be created both as a named function or as an anonymous function. This allows you to choose the most appropriate approach for your application, whether you’re building a list of functions in an API or a one-off function to hand off to another function.
