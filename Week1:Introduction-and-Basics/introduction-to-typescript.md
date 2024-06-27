@@ -15,9 +15,12 @@ npx tsc
 
 npm yarn pnpm
 
-### Basic Types 
+## Basic Types 
 
 Boolean, Number, String, Array, Tuple, Enum, Unknow, Any, Null and Undefined, Never, Object, Type assertions
 
 ## Functions
 TypeScript functions can be created both as a named function or as an anonymous function. This allows you to choose the most appropriate approach for your application, whether you’re building a list of functions in an API or a one-off function to hand off to another function.
+
+## Interfaces
+Interface that describes objects that have more than one data items in a field. In TypeScript, two types are compatible if their internal structure is compatible. This allows us to implement an interface just by having the shape the interface requires, without an explicit implements clause.
