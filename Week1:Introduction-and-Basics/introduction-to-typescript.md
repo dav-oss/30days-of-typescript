@@ -24,3 +24,6 @@ TypeScript functions can be created both as a named function or as an anonymous 
 
 ## Interfaces
 Interface that describes objects that have more than one data items in a field. In TypeScript, two types are compatible if their internal structure is compatible. This allows us to implement an interface just by having the shape the interface requires, without an explicit implements clause.
+
+## Classes 
+TypeScript adds type annotations and other syntax to allow you to express relationships between classes and other types. Be sure whenever a class is mentioned OOP follows.
