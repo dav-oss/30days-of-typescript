@@ -43,4 +43,3 @@ Here's the 30-day TypeScript learning calendar starting from Monday, June 24, 20
 28. **July 21, 2024**: Performance and Optimization
 29. **July 22, 2024**: Final Project - Planning
 30. **July 23, 2024**: Final Project - Implementation
-

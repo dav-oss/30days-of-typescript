@@ -8,7 +8,7 @@ TypeScript is available as a package on the npm registry available as "typescrip
 
 You will need a copy of Node.js as an environment to run the package. Then you use a dependency manager like npm, yarn or pnpm to download TypeScript into your project.
 
-npm install  -g typescript 
+npm install  -g typescript
 
 npm yarn pnpm
 All of these dependency managers support lockfiles, ensuring that everyone on your team is using the same version of the language. You can then run the TypeScript compiler using one of the following commands:
@@ -17,7 +17,7 @@ npx tsc
 
 npm yarn pnpm
 
-## Basic Types 
+## Basic Types
 
 Boolean, Number, String, Array, Tuple, Enum, Unknow, Any, Null and Undefined, Never, Object, Type assertions
 
@@ -29,7 +29,7 @@ TypeScript functions can be created both as a named function or as an anonymous 
 
 Interface that describes objects that have more than one data items in a field. In TypeScript, two types are compatible if their internal structure is compatible. This allows us to implement an interface just by having the shape the interface requires, without an explicit implements clause.
 
-## Classes 
+## Classes
 
 TypeScript adds type annotations and other syntax to allow you to express relationships between classes and other types. Be sure whenever a class is mentioned OOP follows.
 
